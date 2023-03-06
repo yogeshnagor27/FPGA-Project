@@ -1,0 +1,41 @@
+Stage 1--Order
+
+	Select Product
+		P1-$x-SW0
+		P2-$y-SW1
+		P3-$z-SW2
+		
+		SW[i] = 1 -> Display the quantity of product on display
+		
+		SW0 --> 1
+		
+		if multiple switch are 1 at a given time, Display Error
+		
+	Quantity Select
+		KEY0-Increment selected product Quantity
+		KEY1-Decrement selected product Quantity
+		
+		Store the Product and Quantity details in a memory block
+		
+		KEY2-Calculate the price i.e. goto Stage 2
+
+Stage 2--Calculate
+	
+	Calculate price of each product
+	Calculate total price
+	Store the Total price in a memory block
+	After Calulation display total price and goto to stage 3
+
+Stage 3--Payment
+	KEY2-Edit the quantity, i.e. Goto Stage 1
+	
+	If everything is fine, go for Payment
+	Key3 - Payment done, display msg of Done, i.e. Goto to Stage 4
+
+Stage 4--Done
+	Done
+	Print message - "Done" on display
+	
+End
+
+Product + price

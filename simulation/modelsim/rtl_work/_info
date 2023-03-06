@@ -1,0 +1,95 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Sandesh/MS/1stSemester2021/Subjects/FPGAProgramming/Project/Project1/simulation/modelsim
+Ee_cart_calculator
+Z1 w1627551080
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 4
+R0
+Z5 8C:/Sandesh/MS/1stSemester2021/Subjects/FPGAProgramming/Project/Project1/e_cart_calculator.vhd
+Z6 FC:/Sandesh/MS/1stSemester2021/Subjects/FPGAProgramming/Project/Project1/e_cart_calculator.vhd
+l0
+L5 1
+VIG<C]?fPn6UPS3X4L79ML1
+!s100 Mhd4B=9jVBd`H3jYUeXh61
+Z7 OV;C;2020.1;71
+31
+Z8 !s110 1627551107
+!i10b 1
+Z9 !s108 1627551106.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Sandesh/MS/1stSemester2021/Subjects/FPGAProgramming/Project/Project1/e_cart_calculator.vhd|
+Z11 !s107 C:/Sandesh/MS/1stSemester2021/Subjects/FPGAProgramming/Project/Project1/e_cart_calculator.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Aa_cart_calculator
+R2
+R3
+R4
+DEx4 work 17 e_cart_calculator 0 22 IG<C]?fPn6UPS3X4L79ML1
+!i122 4
+l73
+L24 162
+V6OKFc@0PTijjEc2^PZhGj1
+!s100 LFjz;U;W>oW=SN7]AlC5^3
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ee_cart_calculator_vhd_tst
+Z14 w1627551090
+R3
+R4
+!i122 5
+R0
+Z15 8C:/Sandesh/MS/1stSemester2021/Subjects/FPGAProgramming/Project/Project1/simulation/modelsim/e_cart_calculator.vht
+Z16 FC:/Sandesh/MS/1stSemester2021/Subjects/FPGAProgramming/Project/Project1/simulation/modelsim/e_cart_calculator.vht
+l0
+L31 1
+Vz]DNc3P@_f8JhI^5:6c@90
+!s100 =TJ=oQoTfVG`W;YlV5KX;3
+R7
+32
+Z17 !s110 1627551109
+!i10b 1
+Z18 !s108 1627551109.000000
+Z19 !s90 -reportprogress|300|-work|work|C:/Sandesh/MS/1stSemester2021/Subjects/FPGAProgramming/Project/Project1/simulation/modelsim/e_cart_calculator.vht|
+Z20 !s107 C:/Sandesh/MS/1stSemester2021/Subjects/FPGAProgramming/Project/Project1/simulation/modelsim/e_cart_calculator.vht|
+!i113 1
+Z21 o-work work
+R13
+Ae_cart_calculator_arch
+R3
+R4
+Z22 DEx4 work 25 e_cart_calculator_vhd_tst 0 22 z]DNc3P@_f8JhI^5:6c@90
+!i122 5
+l60
+L33 128
+VPdOmzYh>a]Q:G<Rh70Vn43
+!s100 R[CS8h^`3C]E3ZE0e2XQD0
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R21
+R13
